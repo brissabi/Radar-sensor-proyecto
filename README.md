@@ -12,8 +12,8 @@ La información obtenida puede ser visualizada o utilizada para análisis y prá
 - Programación en C/C++
 - Electrónica básica
 
-🎓 Contexto académico:
-Proyecto desarrollado como parte de prácticas educativas en tecnología y electrónica.
+ Contexto:
+Proyecto desarrollado como parte de prácticas personales en tecnología y electrónica.
 
  Estado del proyecto:
 Finalizado a nivel personal.

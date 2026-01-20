@@ -16,4 +16,4 @@ La información obtenida puede ser visualizada o utilizada para análisis y prá
 Proyecto desarrollado como parte de prácticas educativas en tecnología y electrónica.
 
  Estado del proyecto:
-Finalizado a nivel académico.
+Finalizado a nivel personal.
